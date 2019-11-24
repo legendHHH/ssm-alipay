@@ -8,3 +8,8 @@
 out
 gen
 /target/
+
+/.settings/
+/.classpath
+/.project
+/target/
